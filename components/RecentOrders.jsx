@@ -15,6 +15,7 @@ const RecentOrders = () => {
   }, [])
 
   const fetchData = async () => {
+    // loader for improve UI
       setLoading(true)
 
       try {
