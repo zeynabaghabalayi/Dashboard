@@ -62,7 +62,7 @@ const BarChartComponent = () => {
             datasets : [
                 {
                     label : 'Sales $' ,
-                    data : [10000 , 2000 , 7000 , 4000 , 5000 , 16000 , 3000],
+                    data : [1000 , 2000 , 7000 , 4000 , 5000 , 6000 , 3000],
                     backgroundColor : 'rgba(53 , 162 , 235 , 0.4)'
                 }   
 

@@ -33,7 +33,7 @@ const Customers = () => {
     <div className='bg-gray-100 min-h-screen'>
       <div className='flex justify-between p-4'>
         <h2>Customers</h2>
-        <h2>Welcome Back , Client</h2>
+        <h2>Welcome to Zeynab's Dashboard</h2>
       </div>
 
       <div className='p-4'>
